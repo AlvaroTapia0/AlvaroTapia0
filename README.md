@@ -1,5 +1,5 @@
 # 💫 About Me:
-nothing<br>
+nothing.<br>
 
 
 ## 🌐 Socials:
