@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AlvaroTapia0/AlvaroTapia0/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/AlvaroTapia0/AlvaroTapia0/blob/output/github-contribution-grid-snake.svg)
 
 ###
